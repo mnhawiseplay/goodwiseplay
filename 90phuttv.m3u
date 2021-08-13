@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://github.com/mnhawiseplay/goodwiseplay/raw/cache/20210803_152550.jpg" info="gmt+7",GMT+7
+#EXTINF:-1 tvg-logo="https://github.com/mnhawiseplay/goodwiseplay/raw/cache/20210803_152550.jpg" info="gmt+,GMT+7
 http://ok.ru/video/3557184506384
 #EXTINF:-1 tvg-logo="https://github.com/mnhawiseplay/goodwiseplay/raw/cache/20210803_152550.jpg",2021-08-12 02:00 Siêu cúp châu Âu Chelsea - Villarreal
 http://ok.ru/video/3574672198160
