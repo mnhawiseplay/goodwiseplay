@@ -6,4 +6,6 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:4.000,
 thumb-1-v1-a1.jpg
+#EXTINF:4.000,
+thumb-2-v1-a1.jpg
 #EXT-X-ENDLIST
