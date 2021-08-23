@@ -6,7 +6,7 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:4.000,
-thumb-1-v1-a1.ts
+https://raw.githubusercontent.com/mnhawiseplay/goodwiseplay/hls/drive.google.com/file/u/4/d/1ZzAWN014BmrCzFDXAJ7lC4910oN4jco7/thumb-1-v1-a1.ts
 #EXTINF:4.000,
-thumb-2-v1-a1.ts
+https://raw.githubusercontent.com/mnhawiseplay/goodwiseplay/hls/drive.google.com/file/u/4/d/1ZzAWN014BmrCzFDXAJ7lC4910oN4jco7/thumb-2-v1-a1.ts
 #EXT-X-ENDLIST
